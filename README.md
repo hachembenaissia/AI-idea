@@ -57,6 +57,9 @@ To further enhance the project, the chatbot could be integrated with additional 
 - [OpenAI's GPT-3 Model](https://openai.com/)
 - [Image Source: Pexels](https://www.pexels.com/photo/woman-sitting-on-brown-sofa-near-book-2102413/)
 - [chatbot developed by Google](https://bard.google.com/?hl=en)
+- [generates images from natural language descriptions](https://www.midjourney.com/)
+- [Built for storytellers, powered by AI](https://tome.app/)
+- [text rewriter](https://smodin.io/free-english-rewriter-and-spinner)
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
